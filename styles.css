@@ -272,7 +272,7 @@ button:focus, .playlist-song:focus {
     }  
     #player-album-art {
         z-index: -100;
-        height: 280px;
+        height: 225px;
         box-shadow: none;
         background: #000;
     }  
